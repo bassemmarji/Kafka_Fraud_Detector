@@ -18,10 +18,19 @@ This will involve a transaction generator and a fraud detector.
 
 Technologies:
 
+Flask --> is a micro-framework used by python developers.
 
+Apache Kafka --> is a streaming data platform that works by ingesting, transforming and distributing data on the fly.
+
+Zookeeper --> is a coordination software, distributed as well, used by Apache Kafka to keep track of the cluster state and members. 
+
+SSE --> Server-Sent Events is a mechanism for sending updates from a server to a client.
 
 Requirements.txt
 
-Flask 1.1.2
-Jinja2 2.11.2
-Kafka-python 2.0.2
+1) Flask 1.1.2
+
+2) Jinja2 2.11.2
+
+3) Kafka-python 2.0.2
+
