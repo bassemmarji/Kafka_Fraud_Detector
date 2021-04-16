@@ -14,3 +14,14 @@ A simple fraud detection mechanism which produces fake transactions on one end, 
 This will involve a transaction generator and a fraud detector. 
 
 ![image](https://user-images.githubusercontent.com/74184047/115011402-4217ec80-9eb7-11eb-8cec-d2fcecafa9cb.png)
+
+
+Technologies:
+
+
+
+Requirements.txt
+
+Flask 1.1.2
+Jinja2 2.11.2
+Kafka-python 2.0.2
