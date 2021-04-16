@@ -34,3 +34,19 @@ Requirements.txt
 
 3) Kafka-python 2.0.2
 
+
+Screenshots:
+
+Transactions Producer:
+
+![image](https://user-images.githubusercontent.com/74184047/115014734-65dd3180-9ebb-11eb-823a-11f597f39aef.png)
+
+Transactions Detector:
+
+![image](https://user-images.githubusercontent.com/74184047/115014784-74c3e400-9ebb-11eb-9984-0b3064104a62.png)
+
+Transactions Detector using Flask and SSE:
+
+![image](https://user-images.githubusercontent.com/74184047/115014845-886f4a80-9ebb-11eb-857d-90a8bf3054c8.png)
+
+
